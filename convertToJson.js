@@ -18,5 +18,3 @@ csv()
       }
     );
   });
-
-// csvToJson.fieldDelimiter(";").getJsonFromCsv(fileInputName);
